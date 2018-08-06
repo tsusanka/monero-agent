@@ -38,6 +38,7 @@ Python 3 is supported only (asyncio).
 ```bash
 # Clone project
 $> git clone https://github.com/ph4r05/monero-agent.git
+$> git submodule update --init  --recursive
 $> cd monero-agent
 
 # Install poc dependencies
